@@ -1,0 +1,11 @@
+.toDoList{
+	border-bottom: 2px solid green;
+	list-style-type: none;
+	height: 25px;
+	margin-top: 15px;
+}
+
+.clear{
+	background-color:#F08080;
+	margin-right: 30px;
+}
